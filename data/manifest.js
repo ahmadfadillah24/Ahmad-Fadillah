@@ -16,11 +16,25 @@ window.GALLERY = {
    "full": "images-web/photography/portrait/3-dsc00147-full.webp"
   },
   {
+   "name": "5-DSC00158",
+   "w": 3405,
+   "h": 5106,
+   "thumb": "images-web/photography/portrait/5-dsc00158-thumb.webp",
+   "full": "images-web/photography/portrait/5-dsc00158-full.webp"
+  },
+  {
    "name": "6-DSC00119",
    "w": 4000,
    "h": 6000,
    "thumb": "images-web/photography/portrait/6-dsc00119-thumb.webp",
    "full": "images-web/photography/portrait/6-dsc00119-full.webp"
+  },
+  {
+   "name": "7-DSC00145",
+   "w": 4000,
+   "h": 6000,
+   "thumb": "images-web/photography/portrait/7-dsc00145-thumb.webp",
+   "full": "images-web/photography/portrait/7-dsc00145-full.webp"
   },
   {
    "name": "9-DSC09966",
@@ -30,6 +44,20 @@ window.GALLERY = {
    "full": "images-web/photography/portrait/9-dsc09966-full.webp"
   },
   {
+   "name": "10-DSC09985",
+   "w": 4000,
+   "h": 6000,
+   "thumb": "images-web/photography/portrait/10-dsc09985-thumb.webp",
+   "full": "images-web/photography/portrait/10-dsc09985-full.webp"
+  },
+  {
+   "name": "11-DSC00051",
+   "w": 4000,
+   "h": 6000,
+   "thumb": "images-web/photography/portrait/11-dsc00051-thumb.webp",
+   "full": "images-web/photography/portrait/11-dsc00051-full.webp"
+  },
+  {
    "name": "12-DSC09977",
    "w": 4000,
    "h": 6000,
@@ -37,11 +65,25 @@ window.GALLERY = {
    "full": "images-web/photography/portrait/12-dsc09977-full.webp"
   },
   {
+   "name": "13-DSC09983",
+   "w": 4000,
+   "h": 6000,
+   "thumb": "images-web/photography/portrait/13-dsc09983-thumb.webp",
+   "full": "images-web/photography/portrait/13-dsc09983-full.webp"
+  },
+  {
    "name": "15-DSC00036",
    "w": 4000,
    "h": 6000,
    "thumb": "images-web/photography/portrait/15-dsc00036-thumb.webp",
    "full": "images-web/photography/portrait/15-dsc00036-full.webp"
+  },
+  {
+   "name": "16-DSC00013",
+   "w": 6000,
+   "h": 4000,
+   "thumb": "images-web/photography/portrait/16-dsc00013-thumb.webp",
+   "full": "images-web/photography/portrait/16-dsc00013-full.webp"
   }
  ],
  "photography/product": [
